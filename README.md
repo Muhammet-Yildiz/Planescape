@@ -21,6 +21,7 @@
 
 ## 🤖 <a name="introduction">Introduction</a>
 
+A cutting-edge, fullstack open-source flight search application, developed using the MERN stack (MongoDB, Express, React, Node.js) with TypeScript for seamless performance and scalability.
 
 **If you find it helpful, don't forget to give it a ⭐️⭐️⭐️ to show your support. [Fork this repo](https://github.com/Muhammet-Yildiz/Planescape/fork) if you want to contribute ✨ and take this project to the next level!**
 
