@@ -2,8 +2,7 @@
 
 <div align="center ">
 
-![planescape](https://github.com/user-attachments/assets/bef3eaab-791f-4b2f-b744-044b04760303)
-
+![planescape](https://github.com/user-attachments/assets/a2886d06-cef3-4390-a4be-49be05c15d1c)
   </div>
 
 </div>
@@ -109,11 +108,10 @@ $ npm run start (to start the server)
 
 ## 📸 <a name="screenshots">Screenshots</a>
 
-![sw1](https://github.com/user-attachments/assets/1b809f45-4a81-46e1-9765-abe80a2d55fd)
+![ss1](https://github.com/user-attachments/assets/220d4a3f-389e-4b07-8b71-df45d87cd420)
 <hr/>
 
-![sw2](https://github.com/user-attachments/assets/d409dd75-f40a-4307-9898-7e41ddaec579)
-
+![ss2](https://github.com/user-attachments/assets/2cfaceb9-4854-4fe5-a82e-54de362bac33)
 
 
 ## 👤 <a name="author">Author</a>
